@@ -1,0 +1,14 @@
+/home/fasilkom/mahasiswa/r/rinjani.samosir/.gnupg/pubring.gpg
+-------------------------------------------------------------
+pub   4096R/9B0151AE 2017-02-24 [expires: 2017-08-23]
+uid                  Rinjani Samosir (studying OS is ez!) <rinjani.samosir@ui.ac.id>
+sub   4096R/7EF7E567 2017-02-24 [expires: 2017-08-23]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
+pub   4096R/5D673599 2017-02-24 [expires: 2017-08-23]
+uid                  Rinjani Samosir (studying OS is ez!) <rinjani.samosir@ui.ac.id>
+sub   4096R/CF54C25C 2017-02-24 [expires: 2017-08-23]
+
