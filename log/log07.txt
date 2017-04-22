@@ -1,0 +1,3 @@
+w07-170418-19-LR-About: Listening to Lecturer in Lab (Synchronization)
+w07-170422-10-PS-About: Doing Homework
+w07-170422-12-PS-About: Finish Homework
